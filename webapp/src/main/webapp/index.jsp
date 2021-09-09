@@ -1,2 +1,2 @@
 <h1> Hi there!!   </h1>
-<h2>On my way to being devops guru!</h2>
+<h2>I am almost a devops pro now!</h2>
