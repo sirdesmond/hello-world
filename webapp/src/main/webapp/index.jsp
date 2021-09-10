@@ -1,2 +1,2 @@
 <h1> Hi there!!   </h1>
-<h2>I successfully deployed my app on docker through ansible in a jenkins pipeline </h2>
+<h2>I am ready to take a devops side job </h2>
